@@ -21,12 +21,12 @@ public class prblm4 {
         printTriangle(n);
     }
     public static void main(String[] args){
-        final int max_height = 20; 
+      
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number of floors");
         int n = sc.nextInt();
         printLine(n);
-      
+        sc.close();
 
        
         

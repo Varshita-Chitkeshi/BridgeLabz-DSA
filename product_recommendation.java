@@ -26,6 +26,7 @@ public class product_recommendation {
         for(int i = 0 ; i < n ; i++){
             System.out.print(result[i] + " ");
         }
+        sc.close();
     }
-}
+} 
 

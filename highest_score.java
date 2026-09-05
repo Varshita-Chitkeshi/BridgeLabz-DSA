@@ -14,6 +14,7 @@ public class highest_score{
         }
     }
     System.out.println(max);
+    sc.close();
 }
    }
     

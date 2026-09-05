@@ -8,5 +8,6 @@ public class substraction {
         int n2 = sc.nextInt();
         int sub = n1 - n2;
         System.out.println("Substraction is " + sub);
+        sc.close();
     }
 }

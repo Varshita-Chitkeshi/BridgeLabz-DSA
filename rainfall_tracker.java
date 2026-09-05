@@ -17,5 +17,6 @@ public class rainfall_tracker {
     }
 }
         System.out.println(min);
+        sc.close(); 
     }
 }

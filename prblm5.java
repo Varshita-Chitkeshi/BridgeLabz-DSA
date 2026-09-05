@@ -57,6 +57,7 @@ public class prblm5 {
         double marks_result=total_marks(a,b,c,d,e);
         System.out.println(percent_result);
         System.out.println(marks_result);
+        sc.close();
     } 
 }
 

@@ -17,5 +17,6 @@ public class average_calculator {
         System.out.println(total);
         double average = total/n ;
         System.out.println(average);
+        sc.close();
     }
 }
